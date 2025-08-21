@@ -28,6 +28,7 @@ Ce projet a pour but de vous permettre de rédiger un portfolio en ligne personn
 - **Cahier des charges** → Cahier des charges de la réalisation du présent projet
 - **Guide création graphique** → Guide présentant les étapes pour la création d'un "magnigique" graphique sous tableau
 - **Gantt** → Diagramme de Gantt représentant les étapes et deadline pour chaque étape du projet
+    https://public.tableau.com/views/DiagrammedeGantt-Portofolio/Feuille1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - **Tableau de bord** → Tableau de bord sur tableau présentant le profil du candidat et sa méthode de veille sur le marché de l'analyse de donnée.
 - **Besoin métier** → Trame décortiquant les besoins métier d'aeroworld, entreprise fictive jouant le rôle du recruteur du projet.
 
