@@ -29,7 +29,7 @@ Ce projet a pour but de vous permettre de rédiger un portfolio en ligne personn
 - **Guide création graphique** → Guide présentant les étapes pour la création d'un "magnigique" graphique sous tableau
 - **Gantt** → Diagramme de Gantt représentant les étapes et deadline pour chaque étape du projet
     ( => https://public.tableau.com/views/DiagrammedeGantt-Portofolio/Feuille1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- **Tableau de bord - Veille métier et technique** → Tableau de bord sur tableau présentant ma veille sur le marché de l'analyse de donnée ( => https://public.tableau.com/views/Classeur1_17557596094390/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Tableau de bord - Veille métier et technique** → Tableau de bord sur tableau présentant ma veille sur le marché de l'analyse de donnée ( => [https://public.tableau.com/views/Classeur1_17557596094390/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Classeur1_17557596094390/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 - **Tableau de bord - Profil** → Tableau de bord présentant le profil du candidat ( => https://public.tableau.com/views/Tableau_P13/Profil?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Besoin métier** → Trame décortiquant les besoins métier d'aeroworld, entreprise fictive jouant le rôle du recruteur du projet.
 
