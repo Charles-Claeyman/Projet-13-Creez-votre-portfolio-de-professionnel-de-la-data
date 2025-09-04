@@ -24,7 +24,7 @@ Ce projet a pour but de vous permettre de rédiger un portfolio en ligne personn
 ## 🗂️ Livrables
 - `README.md` → contexte, objectifs, compétences.  
 - **Carte mentale** → Carte mentale mettant à plat les objectifs du projet. 
-- **Formation** → Vidéo pédagogique sur la prise en main des deux tableaux de bord ( => https://www.loom.com/share/b197f377264e4043acb7ed5ab2ec683e?sid=e7b2fbef-b792-45e0-beff-21ad7a6fcb74)
+- **Formation** → [Vidéo pédagogique sur la prise en main des deux tableaux de bord](https://www.loom.com/share/b197f377264e4043acb7ed5ab2ec683e?sid=e7b2fbef-b792-45e0-beff-21ad7a6fcb74)
 - **Cahier des charges** → Cahier des charges de la réalisation du présent projet
 - **Guide création graphique** → Guide présentant les étapes pour la création d'un "magnigique" graphique sous tableau
 - **Gantt** → [Diagramme de Gantt représentant les étapes et deadline pour chaque étape du projet](https://public.tableau.com/views/DiagrammedeGantt-Portofolio/Feuille1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
